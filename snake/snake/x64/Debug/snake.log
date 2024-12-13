@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Users\Пользователь\source\repos\snake\snake\snake.cpp(37,13): warning C4551: в вызове функции отсутствует список аргументов
+  snake.vcxproj -> C:\Users\Пользователь\source\repos\snake\x64\Debug\snake.exe
